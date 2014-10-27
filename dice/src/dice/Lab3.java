@@ -22,3 +22,4 @@ public class Lab3 {
 	
 
 } 
+// Good...nevermind the prior questions
