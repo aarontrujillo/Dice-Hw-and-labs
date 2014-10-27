@@ -16,3 +16,5 @@ public class Dices {
 	        return Throw();
 	    }
 } 
+
+// Where is your constructor please?
